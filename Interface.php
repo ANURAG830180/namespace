@@ -1,5 +1,6 @@
 <?php
 
+private $branch_second = ''; 
 Interface Circle
 {
     public function getArea($l, $b);
